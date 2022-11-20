@@ -1,6 +1,11 @@
 # vue-3-github-page-template
 
 
+## - 주의
+
+Node 18 버전에서 실행되지 않는 경우가 있었습니다.
+Node 16.16.0 버전에서 실행 확인하였습니다.
+
 ## - example page
 
 [https://arkimcity.github.io/vue-3-github-page-template](https://arkimcity.github.io/vue-3-github-page-template)
